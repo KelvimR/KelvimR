@@ -1,50 +1,82 @@
 # Olá, eu sou o Kelvim Rodrigues 👋
 
-💻 Backend Developer (.NET)  
-📍 Brasil  
-🚀 +5 anos de experiência  
+💻 Desenvolvedor Backend especializado em .NET  
+📍 Novo Hamburgo - RS, Brasil  
+🚀 +5 anos de experiência em desenvolvimento de software  
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor de software com experiência em backend utilizando .NET, atuando na construção de APIs, modernização de sistemas legados e melhoria contínua de aplicações.
+Sou um Desenvolvedor de Software com mais de 5 anos de experiência atuando na análise, desenvolvimento e sustentação de sistemas, com forte foco em backend utilizando .NET.
 
-Tenho forte atuação com bancos de dados, integrações e sistemas críticos, sempre focando em performance, estabilidade e qualidade.
+Tenho experiência sólida na modernização de sistemas legados (VB6/VB.NET) e desenvolvimento de APIs REST escaláveis, sempre buscando melhorar performance, estabilidade e qualidade das aplicações.
+
+Ao longo da minha carreira, participei de projetos relevantes nos setores de controle patrimonial e mercado financeiro, com foco em soluções eficientes e alinhadas às necessidades do negócio.
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Tecnologias e ferramentas
 
-- .NET / C#
+### 💻 Backend
+- C# / .NET / ASP.NET Core
 - APIs REST
-- SQL Server / Oracle
 - Microservices
-- VB6 / VB.NET
+
+### 🗄️ Banco de dados
+- SQL Server
+- Oracle
+- PL/SQL (Procedures, Functions, Views)
+- Otimização de queries
+
+### ⚡ Outros conhecimentos
+- VB6 / VB.NET (legados)
+- Integração entre sistemas
+- Crystal Reports
+
+### 🔧 DevOps & Qualidade
 - Git & GitHub
 - CI/CD
 - Azure DevOps
 - Docker (em evolução)
+- Kubernetes (em evolução)
+- CodeQL / SAST
 
 ---
 
 ## 📌 Projetos em destaque
 
 🔹 [SmsService](https://github.com/KelvimR/SmsService)  
-Microserviço de envio de SMS (Twilio)
-
-🔹 [API Participantes](https://github.com/KelvimR/API_Participantes)  
-API REST
-
-🔹 [OracleConnection](https://github.com/KelvimR/OracleConnection)  
-Integração com banco Oracle
+Microserviço para envio de SMS utilizando Twilio
 
 ---
 
-## 🔗 Contato
+## 🧠 O que eu estou estudando
 
-💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
+- Arquitetura limpa (Clean Architecture)
+- Microsserviços escaláveis
+- Docker e Kubernetes
+- Segurança de aplicações
 
 ---
 
-⭐ Se curtir algum projeto, deixa uma estrela!
+## 📈 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvimR&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvimR&layout=compact&theme=dark)
+
+---
+
+## 🌎 Contato
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/kelvim-rodrigues-dev/
+
+---
+
+## 🚀 Soluções robustas, eficientes e alinhadas às necessidades do negócio.
+
+---
+
+⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!

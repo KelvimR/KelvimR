@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Kelvim Rodrigues 👋
 
-<!--
-**KelvimR/KelvimR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer (.NET)  
+📍 Brasil  
+🚀 +5 anos de experiência  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Desenvolvedor de software com experiência em backend utilizando .NET, atuando na construção de APIs, modernização de sistemas legados e melhoria contínua de aplicações.
+
+Tenho forte atuação com bancos de dados, integrações e sistemas críticos, sempre focando em performance, estabilidade e qualidade.
+
+---
+
+## ⚙️ Tecnologias
+
+- .NET / C#
+- APIs REST
+- SQL Server / Oracle
+- Microservices
+- VB6 / VB.NET
+- Git & GitHub
+- CI/CD
+- Azure DevOps
+- Docker (em evolução)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 [SmsService](https://github.com/KelvimR/SmsService)  
+Microserviço de envio de SMS (Twilio)
+
+🔹 [API Participantes](https://github.com/KelvimR/API_Participantes)  
+API REST
+
+🔹 [OracleConnection](https://github.com/KelvimR/OracleConnection)  
+Integração com banco Oracle
+
+---
+
+## 🔗 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela!

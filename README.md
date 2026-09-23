@@ -1,85 +1,171 @@
 # Olá, eu sou o Kelvim Rodrigues 👋
 
-💻 Desenvolvedor Backend especializado em .NET  
+💻 **Backend Developer .NET | C# | ASP.NET Core | APIs REST**  
 📍 Novo Hamburgo - RS, Brasil  
-🚀 +5 anos de experiência em desenvolvimento de software  
+🚀 **+6 anos de experiência em desenvolvimento de software**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um Desenvolvedor de Software com mais de 5 anos de experiência atuando na análise, desenvolvimento e sustentação de sistemas, com forte foco em backend utilizando .NET.
+Sou Desenvolvedor de Software com mais de 6 anos de experiência em desenvolvimento, modernização e sustentação de sistemas corporativos, atualmente especializado em **Backend .NET**.
 
-Tenho experiência sólida na modernização de sistemas legados (VB6/VB.NET) e desenvolvimento de APIs REST escaláveis, sempre buscando melhorar performance, estabilidade e qualidade das aplicações.
+Minha atuação envolve principalmente **C#, .NET, ASP.NET Core, APIs REST, SQL Server e Oracle**, além de experiência relevante na modernização de aplicações legadas desenvolvidas em **VB6 e VB.NET**.
 
-Ao longo da minha carreira, participei de projetos relevantes nos setores de controle patrimonial e mercado financeiro, com foco em soluções eficientes e alinhadas às necessidades do negócio.
+Ao longo da carreira, participei de projetos nos setores **financeiro, seguros e industrial**, atuando com desenvolvimento de novas funcionalidades, integrações, sustentação de sistemas críticos, troubleshooting e evolução de aplicações.
+
+Também desenvolvo projetos próprios e laboratórios técnicos envolvendo **Clean Architecture, microsserviços, mensageria, Docker, CI/CD, segurança de código e observabilidade**.
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## ⚙️ Stack técnica
 
 ### 💻 Backend
-- C# / .NET / ASP.NET Core
+
+- C#
+- .NET 6 / 7 / 8 / 10
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Minimal APIs
 - APIs REST
-- Microservices
 
-### 🗄️ Banco de dados
-- SQL Server
+### 🏗️ Arquitetura e Integrações
+
+- Clean Architecture
+- CQRS
+- MediatR
+- Integração de sistemas
+- JWT / autenticação / autorização
+- Microsserviços — projetos e estudos aplicados
+
+### 🗄️ Banco de Dados
+
 - Oracle
-- PL/SQL (Procedures, Functions, Views)
-- Otimização de queries
+- SQL Server
+- Entity Framework Core
+- Dapper
+- PL/SQL
+- PostgreSQL — projetos e desafios técnicos
+- MongoDB — estudos aplicados
+- Redis — estudos aplicados
 
-### ⚡ Outros conhecimentos
-- VB6 / VB.NET (legados)
-- Integração entre sistemas
-- Crystal Reports
+### 📨 Mensageria
 
-### 🔧 DevOps & Qualidade
-- Git & GitHub
-- CI/CD
+- RabbitMQ
+- MassTransit
+- Azure Service Bus
+
+### 🔧 DevOps, Qualidade e Segurança
+
+- Git / GitHub
+- GitHub Actions
 - Azure DevOps
-- Docker (em evolução)
-- Kubernetes (em evolução)
+- CI/CD
+- Docker / Docker Compose
 - CodeQL / SAST
+- Serilog
+- Swagger / Scalar
+- xUnit
+- Testes de integração
+
+### 🧩 Legacy
+
+- VB6
+- VB.NET
+- Crystal Reports
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 [SmsService](https://github.com/KelvimR/SmsService)  
-Microserviço para envio de SMS utilizando Twilio
+### 🔹 Microservices with Azure Service Bus
 
-🔹 [api-rest-with-aspnet-10](https://github.com/KelvimR/api-rest-with-aspnet-10)  
-Estudos .Net 10
+Projeto em .NET voltado à construção de microsserviços e comunicação assíncrona entre serviços, utilizando Entity Framework Core, Azure Service Bus e práticas de CI/CD.
+
+🔗 https://github.com/KelvimR/microservices-with-azure-service-bus
 
 ---
 
-## 🧠 O que eu estou estudando
+### 🔹 Desafio Técnico - C# / Windows Service / PostgreSQL / VB6
 
-- Arquitetura limpa (Clean Architecture)
-- Microsserviços escaláveis
+Solução composta por um Windows Service desenvolvido em C#/.NET, rotina PostgreSQL e integração de aplicação VB6 com API REST.
+
+O projeto também utiliza GitHub Actions para validação automática do build.
+
+🔗 https://github.com/KelvimR/desafio-tecnico
+
+---
+
+### 🔹 .NET Microservices + RabbitMQ / MassTransit
+
+Laboratório backend utilizando .NET, Docker Compose, RabbitMQ, SQL Server, PostgreSQL, MongoDB e Redis, criado para estudos de mensageria, microsserviços, cache e arquitetura orientada a eventos.
+
+🔗 https://github.com/KelvimR/dotnet10-microservices-with-rabbitMQ-MassTransit
+
+---
+
+### 🔹 ApiGuardian - Code Intelligence
+
+Ferramenta desenvolvida em .NET utilizando Roslyn para análise estática de soluções, descoberta de endpoints, identificação de handlers, arquivos, linhas e parâmetros.
+
+> Projeto em evolução.
+
+---
+
+## 💼 Experiência
+
+Atuação profissional em projetos e sistemas para empresas dos setores financeiro, seguros e industrial, incluindo:
+
+- JBS
+- Seara
+- Banco do Brasil / BrasilSeg
+- Banco Omni
+- Banco Bari
+
+Principais áreas de atuação:
+
+- Backend .NET
+- APIs REST
+- Modernização VB6 / VB.NET → .NET
+- Oracle e SQL Server
+- Sustentação de sistemas críticos
+- Integrações entre sistemas
+- Troubleshooting em produção
+
+---
+
+## 📚 Atualmente aprofundando conhecimentos em
+
+- Arquitetura de microsserviços
+- Mensageria e Event-Driven Architecture
+- Azure
 - Docker e Kubernetes
-- Segurança de aplicações
+- Observabilidade
+- Segurança de APIs e aplicações
+- Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
-## 📈 Estatísticas GitHub
+## 🎓 Formação
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvimR&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvimR&layout=compact&theme=dark)
+**Sistemas de Informação**  
+Universidade Feevale — em andamento
 
 ---
 
 ## 🌎 Contato
 
-💼 LinkedIn:  
+💼 LinkedIn  
 https://www.linkedin.com/in/kelvim-rodrigues-dev/
 
+📧 E-mail  
+kelvimrodrigues1@gmail.com
+
 ---
 
-## 🚀 Soluções robustas, eficientes e alinhadas às necessidades do negócio.
+## 📊 GitHub
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvimR&show_icons=true&theme=dark)
 
-⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvimR&layout=compact&theme=dark)

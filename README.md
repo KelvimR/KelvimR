@@ -4,13 +4,11 @@
 
 ---
 
----
-
 # 🇧🇷 Português
 
 ### 💻 Backend Developer | C# | .NET | ASP.NET Core | REST APIs
 
-📍 Novo Hamburgo – RS, Brasil
+📍 Novo Hamburgo – RS, Brasil  
 🚀 Mais de 6 anos de experiência em desenvolvimento de software.
 
 ## 👨‍💻 Sobre mim
@@ -26,7 +24,6 @@ Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquit
 ## ⚙️ Stack tecnológica
 
 **Backend**
-
 - C#, .NET 6 / 7 / 8 / 10
 - ASP.NET Core, ASP.NET MVC
 - Web API e Minimal APIs
@@ -34,7 +31,6 @@ Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquit
 - Dapper
 
 **Arquitetura e integrações**
-
 - Clean Architecture
 - CQRS e MediatR
 - Domain-Driven Design (DDD)
@@ -43,7 +39,6 @@ Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquit
 - Microsserviços
 
 **Banco de dados**
-
 - Oracle e SQL Server
 - PL/SQL
 - PostgreSQL
@@ -51,13 +46,11 @@ Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquit
 - Redis
 
 **Mensageria**
-
 - RabbitMQ
 - MassTransit
 - Azure Service Bus
 
 **DevOps, qualidade e segurança**
-
 - Git e GitHub
 - GitHub Actions e Azure DevOps
 - Docker e Docker Compose
@@ -68,7 +61,6 @@ Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquit
 - xUnit, Moq e testes de integração
 
 **Tecnologias legadas**
-
 - VB6
 - VB.NET
 - Crystal Reports
@@ -110,14 +102,12 @@ Ferramenta em desenvolvimento utilizando C#/.NET e Roslyn para análise estátic
 Atuação em projetos e sistemas corporativos dos setores financeiro, industrial e de seguros.
 
 **Empresas e projetos:**
-
 - JBS / Seara
 - Banco do Brasil / BrasilSeg
 - Banco Omni
 - Banco Bari
 
 **Principais atividades:**
-
 - Desenvolvimento backend com C# e .NET.
 - Construção e manutenção de APIs REST.
 - Modernização de aplicações legadas VB6/VB.NET.
@@ -138,13 +128,13 @@ Atuação em projetos e sistemas corporativos dos setores financeiro, industrial
 
 ## 🎓 Formação
 
-**Sistemas de Informação**
+**Sistemas de Informação**  
 Universidade Feevale — Em andamento.
 
 ## 🌎 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
-- 📧 [E-mail](mailto\:kelvimrodrigues1@gmail.com)
+- 📧 [E-mail](mailto:kelvimrodrigues1@gmail.com)
 - 🌐 [Portfólio](https://kelvimrodrigues.vercel.app/pt-br)
 - 🐙 [GitHub](https://github.com/KelvimR)
 
@@ -154,7 +144,7 @@ Universidade Feevale — Em andamento.
 
 ### 💻 Backend Developer | C# | .NET | ASP.NET Core | REST APIs
 
-📍 Novo Hamburgo – RS, Brazil
+📍 Novo Hamburgo – RS, Brazil  
 🚀 6+ years of experience in software development.
 
 ## 👨‍💻 About me
@@ -170,7 +160,6 @@ I also build personal projects and technical labs focused on software architectu
 ## ⚙️ Technical Stack
 
 **Backend**
-
 - C#, .NET 6 / 7 / 8 / 10
 - ASP.NET Core, ASP.NET MVC
 - Web API and Minimal APIs
@@ -178,7 +167,6 @@ I also build personal projects and technical labs focused on software architectu
 - Dapper
 
 **Architecture and Integrations**
-
 - Clean Architecture
 - CQRS and MediatR
 - Domain-Driven Design (DDD)
@@ -187,7 +175,6 @@ I also build personal projects and technical labs focused on software architectu
 - Microservices
 
 **Databases**
-
 - Oracle and SQL Server
 - PL/SQL
 - PostgreSQL
@@ -195,13 +182,11 @@ I also build personal projects and technical labs focused on software architectu
 - Redis
 
 **Messaging**
-
 - RabbitMQ
 - MassTransit
 - Azure Service Bus
 
 **DevOps, Quality and Security**
-
 - Git and GitHub
 - GitHub Actions and Azure DevOps
 - Docker and Docker Compose
@@ -212,7 +197,6 @@ I also build personal projects and technical labs focused on software architectu
 - xUnit, Moq and Integration Testing
 
 **Legacy Technologies**
-
 - VB6
 - VB.NET
 - Crystal Reports
@@ -254,14 +238,12 @@ A tool under development using C#/.NET and Roslyn for static code analysis, endp
 Experience working on enterprise applications and systems across the financial, industrial, and insurance sectors.
 
 **Companies and projects:**
-
 - JBS / Seara
 - Banco do Brasil / BrasilSeg
 - Banco Omni
 - Banco Bari
 
 **Key responsibilities:**
-
 - Backend development using C# and .NET.
 - Building and maintaining REST APIs.
 - Modernizing legacy VB6/VB.NET applications.
@@ -282,17 +264,30 @@ Experience working on enterprise applications and systems across the financial, 
 
 ## 🎓 Education
 
-**Information Systems**
+**Information Systems**  
 Universidade Feevale — In progress.
 
 ## 🌎 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
-- 📧 [Email](mailto\:kelvimrodrigues1@gmail.com)
+- 📧 [Email](mailto:kelvimrodrigues1@gmail.com)
 - 🌐 [Portfolio](https://kelvimrodrigues.vercel.app/pt-br)
 - 🐙 [GitHub](https://github.com/KelvimR)
 
 ---
 
-⭐ Thanks for visiting my profile! | Obrigado por visitar meu perfil!
+## 📊 GitHub Analytics
 
+![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![Repositories per Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+![Most Used Languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![GitHub Stats](./profile-summary-card-output/github_dark/3-stats.svg)
+
+![Productive Time](./profile-summary-card-output/github_dark/4-productive-time.svg)
+
+---
+
+⭐ Thanks for visiting my profile! | Obrigado por visitar meu perfil!

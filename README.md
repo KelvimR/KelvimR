@@ -294,5 +294,5 @@ Universidade Feevale — In progress.
 
 ---
 
-\<p align="center">   ⭐ Thanks for visiting my profile! | Obrigado por visitar meu perfil! \</p>
+⭐ Thanks for visiting my profile! | Obrigado por visitar meu perfil!
 

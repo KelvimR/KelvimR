@@ -1,171 +1,299 @@
-# Olá, eu sou o Kelvim Rodrigues 👋
+# 👋 Olá, eu sou Kelvim Rodrigues | Hi, I'm Kelvim Rodrigues
 
-💻 **Backend Developer .NET | C# | ASP.NET Core | APIs REST**  
-📍 Novo Hamburgo - RS, Brasil  
-🚀 **+6 anos de experiência em desenvolvimento de software**
+\<p align="center">
+&#x20; \<a href="#-português">🇧🇷 Português\</a> |
+&#x20; \<a href="#-english">🇺🇸 English\</a>
+\</p>
 
 ---
+
+# 🇧🇷 Português
+
+### 💻 Backend Developer | C# | .NET | ASP.NET Core | REST APIs
+
+📍 Novo Hamburgo – RS, Brasil
+🚀 Mais de 6 anos de experiência em desenvolvimento de software.
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor de Software com mais de 6 anos de experiência em desenvolvimento, modernização e sustentação de sistemas corporativos, atualmente especializado em **Backend .NET**.
+Desenvolvedor de Software com mais de 6 anos de experiência em desenvolvimento, modernização e sustentação de sistemas corporativos, com foco em **Backend .NET**.
 
-Minha atuação envolve principalmente **C#, .NET, ASP.NET Core, APIs REST, SQL Server e Oracle**, além de experiência relevante na modernização de aplicações legadas desenvolvidas em **VB6 e VB.NET**.
+Minha experiência envolve principalmente C#, .NET, ASP.NET Core, APIs REST, SQL Server e Oracle, além da modernização e integração de aplicações legadas desenvolvidas em VB6 e VB.NET.
 
-Ao longo da carreira, participei de projetos nos setores **financeiro, seguros e industrial**, atuando com desenvolvimento de novas funcionalidades, integrações, sustentação de sistemas críticos, troubleshooting e evolução de aplicações.
+Ao longo da carreira, participei de projetos nos setores financeiro, de seguros e industrial, atuando desde o entendimento de requisitos e implementação de regras de negócio até integrações, troubleshooting e sustentação em produção.
 
-Também desenvolvo projetos próprios e laboratórios técnicos envolvendo **Clean Architecture, microsserviços, mensageria, Docker, CI/CD, segurança de código e observabilidade**.
+Também desenvolvo projetos pessoais e laboratórios técnicos envolvendo arquitetura de software, microsserviços, mensageria, Docker, CI/CD e segurança de aplicações.
 
----
+## ⚙️ Stack tecnológica
 
-## ⚙️ Stack técnica
+**Backend**
 
-### 💻 Backend
-
-- C#
-- .NET 6 / 7 / 8 / 10
-- ASP.NET Core
-- ASP.NET MVC
-- Web API
-- Minimal APIs
-- APIs REST
-
-### 🏗️ Arquitetura e Integrações
-
-- Clean Architecture
-- CQRS
-- MediatR
-- Integração de sistemas
-- JWT / autenticação / autorização
-- Microsserviços — projetos e estudos aplicados
-
-### 🗄️ Banco de Dados
-
-- Oracle
-- SQL Server
+- C#, .NET 6 / 7 / 8 / 10
+- ASP.NET Core, ASP.NET MVC
+- Web API e Minimal APIs
 - Entity Framework Core
 - Dapper
-- PL/SQL
-- PostgreSQL — projetos e desafios técnicos
-- MongoDB — estudos aplicados
-- Redis — estudos aplicados
 
-### 📨 Mensageria
+**Arquitetura e integrações**
+
+- Clean Architecture
+- CQRS e MediatR
+- Domain-Driven Design (DDD)
+- APIs REST
+- JWT, autenticação e autorização
+- Microsserviços
+
+**Banco de dados**
+
+- Oracle e SQL Server
+- PL/SQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+**Mensageria**
 
 - RabbitMQ
 - MassTransit
 - Azure Service Bus
 
-### 🔧 DevOps, Qualidade e Segurança
+**DevOps, qualidade e segurança**
 
-- Git / GitHub
-- GitHub Actions
-- Azure DevOps
+- Git e GitHub
+- GitHub Actions e Azure DevOps
+- Docker e Docker Compose
 - CI/CD
-- Docker / Docker Compose
 - CodeQL / SAST
 - Serilog
 - Swagger / Scalar
-- xUnit
-- Testes de integração
+- xUnit, Moq e testes de integração
 
-### 🧩 Legacy
+**Tecnologias legadas**
 
 - VB6
 - VB.NET
 - Crystal Reports
 
----
+*Observação: algumas tecnologias desta stack são utilizadas em projetos pessoais, laboratórios e estudos práticos, não necessariamente em ambiente profissional de produção.*
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 🔹 Microservices with Azure Service Bus
+### Microservices with Azure Service Bus
 
-Projeto em .NET voltado à construção de microsserviços e comunicação assíncrona entre serviços, utilizando Entity Framework Core, Azure Service Bus e práticas de CI/CD.
+Projeto prático de arquitetura de microsserviços com .NET, Entity Framework Core e Azure Service Bus, explorando comunicação assíncrona e integração entre serviços.
 
-🔗 https://github.com/KelvimR/microservices-with-azure-service-bus
+🔗 [GitHub Repository](https://github.com/KelvimR/microservices-with-azure-service-bus)
 
----
+### Desafio Técnico – C# / Windows Service / PostgreSQL / VB6
 
-### 🔹 Desafio Técnico - C# / Windows Service / PostgreSQL / VB6
+Solução de integração envolvendo Windows Service desenvolvido em C#/.NET, PostgreSQL e aplicação VB6 consumindo uma API REST.
 
-Solução composta por um Windows Service desenvolvido em C#/.NET, rotina PostgreSQL e integração de aplicação VB6 com API REST.
+Inclui automação de validação de build com GitHub Actions.
 
-O projeto também utiliza GitHub Actions para validação automática do build.
+🔗 [GitHub Repository](https://github.com/KelvimR/desafio-tecnico)
 
-🔗 https://github.com/KelvimR/desafio-tecnico
+### .NET Microservices + RabbitMQ / MassTransit
 
----
+Laboratório backend com .NET, Docker Compose, RabbitMQ, MassTransit, SQL Server, PostgreSQL, MongoDB e Redis.
 
-### 🔹 .NET Microservices + RabbitMQ / MassTransit
+Foco em mensageria, comunicação entre serviços, cache e arquitetura orientada a eventos.
 
-Laboratório backend utilizando .NET, Docker Compose, RabbitMQ, SQL Server, PostgreSQL, MongoDB e Redis, criado para estudos de mensageria, microsserviços, cache e arquitetura orientada a eventos.
+🔗 [GitHub Repository](https://github.com/KelvimR/dotnet10-microservices-with-rabbitMQ-MassTransit)
 
-🔗 https://github.com/KelvimR/dotnet10-microservices-with-rabbitMQ-MassTransit
+### ApiGuardian – Code Intelligence
 
----
+Ferramenta em desenvolvimento utilizando C#/.NET e Roslyn para análise estática de soluções, identificação de endpoints, handlers, arquivos, linhas de código e parâmetros.
 
-### 🔹 ApiGuardian - Code Intelligence
+🔗 [GitHub Profile](https://github.com/KelvimR)
 
-Ferramenta desenvolvida em .NET utilizando Roslyn para análise estática de soluções, descoberta de endpoints, identificação de handlers, arquivos, linhas e parâmetros.
+## 💼 Experiência profissional
 
-> Projeto em evolução.
+Atuação em projetos e sistemas corporativos dos setores financeiro, industrial e de seguros.
 
----
+**Empresas e projetos:**
 
-## 💼 Experiência
-
-Atuação profissional em projetos e sistemas para empresas dos setores financeiro, seguros e industrial, incluindo:
-
-- JBS
-- Seara
+- JBS / Seara
 - Banco do Brasil / BrasilSeg
 - Banco Omni
 - Banco Bari
 
-Principais áreas de atuação:
+**Principais atividades:**
 
-- Backend .NET
-- APIs REST
-- Modernização VB6 / VB.NET → .NET
-- Oracle e SQL Server
-- Sustentação de sistemas críticos
-- Integrações entre sistemas
-- Troubleshooting em produção
+- Desenvolvimento backend com C# e .NET.
+- Construção e manutenção de APIs REST.
+- Modernização de aplicações legadas VB6/VB.NET.
+- Integrações entre sistemas.
+- Desenvolvimento de regras de negócio.
+- Trabalho com Oracle e SQL Server.
+- Troubleshooting e sustentação de sistemas críticos.
 
----
+## 📚 Atualmente estudando e aprofundando
 
-## 📚 Atualmente aprofundando conhecimentos em
-
-- Arquitetura de microsserviços
-- Mensageria e Event-Driven Architecture
-- Azure
-- Docker e Kubernetes
-- Observabilidade
-- Segurança de APIs e aplicações
-- Inteligência Artificial aplicada ao desenvolvimento
-
----
+- Arquitetura de microsserviços.
+- Event-Driven Architecture e mensageria.
+- Microsoft Azure.
+- Docker e Kubernetes.
+- Observabilidade.
+- Segurança de APIs.
+- Inteligência Artificial aplicada ao desenvolvimento.
 
 ## 🎓 Formação
 
-**Sistemas de Informação**  
-Universidade Feevale — em andamento
-
----
+**Sistemas de Informação**
+Universidade Feevale — Em andamento.
 
 ## 🌎 Contato
 
-💼 LinkedIn  
-https://www.linkedin.com/in/kelvim-rodrigues-dev/
-
-📧 E-mail  
-kelvimrodrigues1@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
+- 📧 [E-mail](mailto\:kelvimrodrigues1@gmail.com)
+- 🌐 [Portfólio](https://kelvimrodrigues.vercel.app/pt-br)
+- 🐙 [GitHub](https://github.com/KelvimR)
 
 ---
 
-## 📊 GitHub
+# 🇺🇸 English
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvimR&show_icons=true&theme=dark)
+### 💻 Backend Developer | C# | .NET | ASP.NET Core | REST APIs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvimR&layout=compact&theme=dark)
+📍 Novo Hamburgo – RS, Brazil
+🚀 6+ years of experience in software development.
+
+## 👨‍💻 About me
+
+Software Developer with over 6 years of experience in enterprise software development, modernization, and maintenance, currently focused on **Backend .NET development**.
+
+My technical background includes C#, .NET, ASP.NET Core, REST APIs, SQL Server, and Oracle, as well as the modernization and integration of legacy applications built with VB6 and VB.NET.
+
+Throughout my career, I have contributed to projects in the financial, insurance, and industrial sectors, working on business requirements, business logic implementation, system integrations, troubleshooting, and production support.
+
+I also build personal projects and technical labs focused on software architecture, microservices, messaging, Docker, CI/CD, and application security.
+
+## ⚙️ Technical Stack
+
+**Backend**
+
+- C#, .NET 6 / 7 / 8 / 10
+- ASP.NET Core, ASP.NET MVC
+- Web API and Minimal APIs
+- Entity Framework Core
+- Dapper
+
+**Architecture and Integrations**
+
+- Clean Architecture
+- CQRS and MediatR
+- Domain-Driven Design (DDD)
+- REST APIs
+- JWT, Authentication and Authorization
+- Microservices
+
+**Databases**
+
+- Oracle and SQL Server
+- PL/SQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+**Messaging**
+
+- RabbitMQ
+- MassTransit
+- Azure Service Bus
+
+**DevOps, Quality and Security**
+
+- Git and GitHub
+- GitHub Actions and Azure DevOps
+- Docker and Docker Compose
+- CI/CD
+- CodeQL / SAST
+- Serilog
+- Swagger / Scalar
+- xUnit, Moq and Integration Testing
+
+**Legacy Technologies**
+
+- VB6
+- VB.NET
+- Crystal Reports
+
+*Note: Some technologies listed above are used in personal projects, technical labs, and hands-on learning rather than professional production environments.*
+
+## 🚀 Featured Projects
+
+### Microservices with Azure Service Bus
+
+A practical microservices architecture project using .NET, Entity Framework Core, and Azure Service Bus, exploring asynchronous communication and service integration.
+
+🔗 [GitHub Repository](https://github.com/KelvimR/microservices-with-azure-service-bus)
+
+### Technical Challenge – C# / Windows Service / PostgreSQL / VB6
+
+An integration solution involving a Windows Service developed with C#/.NET, PostgreSQL, and a VB6 application consuming a REST API.
+
+Includes automated build validation using GitHub Actions.
+
+🔗 [GitHub Repository](https://github.com/KelvimR/desafio-tecnico)
+
+### .NET Microservices + RabbitMQ / MassTransit
+
+A backend laboratory built with .NET, Docker Compose, RabbitMQ, MassTransit, SQL Server, PostgreSQL, MongoDB, and Redis.
+
+Focused on messaging, service communication, caching, and event-driven architecture.
+
+🔗 [GitHub Repository](https://github.com/KelvimR/dotnet10-microservices-with-rabbitMQ-MassTransit)
+
+### ApiGuardian – Code Intelligence
+
+A tool under development using C#/.NET and Roslyn for static code analysis, endpoint and handler discovery, and source code inspection.
+
+🔗 [GitHub Profile](https://github.com/KelvimR)
+
+## 💼 Professional Experience
+
+Experience working on enterprise applications and systems across the financial, industrial, and insurance sectors.
+
+**Companies and projects:**
+
+- JBS / Seara
+- Banco do Brasil / BrasilSeg
+- Banco Omni
+- Banco Bari
+
+**Key responsibilities:**
+
+- Backend development using C# and .NET.
+- Building and maintaining REST APIs.
+- Modernizing legacy VB6/VB.NET applications.
+- System integrations.
+- Business logic implementation.
+- Working with Oracle and SQL Server.
+- Troubleshooting and supporting critical production systems.
+
+## 📚 Currently Learning and Improving
+
+- Microservices Architecture.
+- Event-Driven Architecture and Messaging.
+- Microsoft Azure.
+- Docker and Kubernetes.
+- Observability.
+- API Security.
+- Artificial Intelligence applied to software development.
+
+## 🎓 Education
+
+**Information Systems**
+Universidade Feevale — In progress.
+
+## 🌎 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kelvim-rodrigues-dev/)
+- 📧 [Email](mailto\:kelvimrodrigues1@gmail.com)
+- 🌐 [Portfolio](https://kelvimrodrigues.vercel.app/pt-br)
+- 🐙 [GitHub](https://github.com/KelvimR)
+
+---
+
+\<p align="center">   ⭐ Thanks for visiting my profile! | Obrigado por visitar meu perfil! \</p>
+

@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou Kelvim Rodrigues | Hi, I'm Kelvim Rodrigues
 
-\<p align="center">
-&#x20; \<a href="#-português">🇧🇷 Português\</a> |
-&#x20; \<a href="#-english">🇺🇸 English\</a>
-\</p>
+[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+
+---
 
 ---
 
